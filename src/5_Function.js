@@ -7,3 +7,7 @@ function helloFunction() {
 var helloFunction = function () {
     console.log('hello');
 }
+
+console.log(typeof(helloFunction));
+console.log("helloFunction instanceof object : " + (helloFunction instanceof Object));
+console.log("helloFunction instanceof Function : " + (helloFunction instanceof Function));

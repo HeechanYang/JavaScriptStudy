@@ -13,7 +13,6 @@ if (num < 5) {
 }
 ```
 
-
 ```text
 4 is less than 5.
 ```

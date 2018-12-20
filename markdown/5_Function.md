@@ -1,4 +1,4 @@
-# JavaScript의 반복문
+# JavaScript의 함수
 
 
 
